@@ -1,6 +1,6 @@
 # upjv-python-datascience
 Travaux dirigés Python &amp; Data Science - UPJV Amiens
-"""# Python & Data Science — UPJV Amiens
+# Python & Data Science — UPJV Amiens
 
 **Étudiant·e :** Maelys Paris
 **Formation :** L3 Économie 
